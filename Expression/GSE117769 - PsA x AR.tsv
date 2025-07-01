@@ -1,0 +1,3 @@
+GeneID	Symbol	Description	log2(fold change)(PsA vs AR)	-log10(Pvalue)(PsA vs AR)
+100463486	MTRNR2L8	MT-RNR2 like 8 (pseudogene)	-4.384	2.869
+100463488	MTRNR2L10	MT-RNR2 like 10 (pseudogene)	-8.223	2.869

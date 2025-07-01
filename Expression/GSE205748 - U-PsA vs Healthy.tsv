@@ -1,0 +1,80 @@
+GeneID	Symbol	Description	log2(fold change)(U-Skin-PsA vs Healthy_Skin)	-log10(Pvalue)(U-Skin-PsA vs Healthy_Skin)
+57035	RSRP1	arginine and serine rich protein 1	-0.659	1.333
+388677	NOTCH2NLA	notch 2 N-terminal like A	0.627	2.262
+2702	GJA5	gap junction protein alpha 5	1.147	1.503
+100996763	NOTCH2NLB	notch 2 N-terminal like B	0.511	2.262
+26802	SNORD47	small nucleolar RNA, C/D box 47	-0.869	1.503
+4660	PPP1R12B	protein phosphatase 1 regulatory subunit 12B	0.663	1.475
+7779	SLC30A1	solute carrier family 30 member 1	0.579	2.262
+107984018	LOC107984018	uncharacterized LOC107984018	-0.993	1.504
+55657	ZNF692	zinc finger protein 692	-0.815	1.596
+51232	CRIM1	cysteine rich transmembrane BMP regulator 1	0.752	2.262
+51601	LIPT1	lipoyltransferase 1	-0.539	1.304
+140469	MYO3B	myosin IIIB	1.3	2.262
+105376748	NEMP2-DT	NEMP2 divergent transcript	-0.666	1.699
+51540	SCLY	selenocysteine lyase	-0.545	2.117
+686	BTD	biotinidase	0.646	1.325
+4057	LTF	lactotransferrin	1.71	2.262
+56920	SEMA3G	semaphorin 3G	0.753	1.62
+1295	COL8A1	collagen type VIII alpha 1 chain	0.888	1.654
+285359	PDCL3P4	PDCL3 pseudogene 4	-0.697	1.596
+7018	TF	transferrin	2.148	1.571
+64084	CLSTN2	calsyntenin 2	1.025	1.536
+105374139	LOC105374139		-1.489	1.608
+401207	C5orf63	chromosome 5 open reading frame 63	-0.681	2.262
+55510	DDX43	DEAD-box helicase 43	-2.046	1.325
+60468	BACH2	BTB domain and CNC homolog 2	0.548	1.325
+9457	FHL5	four and a half LIM domains 5	0.902	1.654
+107986659	LOC107986659	uncharacterized LOC107986659	-2.11	1.408
+346389	MACC1	MET transcriptional regulator MACC1	0.636	1.503
+9771	RAPGEF5	Rap guanine nucleotide exchange factor 5	0.626	1.571
+28996	HIPK2	homeodomain interacting protein kinase 2	0.829	1.773
+94137	RP1L1	RP1 like 1	1.092	1.482
+26795	SNORD54	small nucleolar RNA, C/D box 54	-1.053	1.608
+54928	BPNT2	3'(2'), 5'-bisphosphate nucleotidase 2	0.59	1.482
+444	ASPH	aspartate beta-hydroxylase	0.665	2.262
+23639	DNAAF11	dynein axonemal assembly factor 11	-0.621	1.45
+105376363	LOC105376363	uncharacterized LOC105376363	-1.062	1.341
+85388	SNORD14B	small nucleolar RNA, C/D box 14B	-1.093	1.568
+283212	KLHL35	kelch like family member 35	-0.902	1.699
+9976	CLEC2B	C-type lectin domain family 2 member B	-0.565	1.654
+11226	GALNT6	polypeptide N-acetylgalactosaminyltransferase 6	0.633	1.383
+51367	POP5	POP5 homolog, ribonuclease P/MRP subunit	-0.552	2.262
+221143	EEF1AKMT1	EEF1A lysine methyltransferase 1	-0.651	1.414
+100506697	LINC00327	long intergenic non-protein coding RNA 327	-0.885	2.262
+221178	SPATA13	spermatogenesis associated 13	0.547	1.958
+10082	GPC6	glypican 6	0.786	1.654
+8110	DPF3	double PHD fingers 3	-0.755	2.262
+97	ACYP1	acylphosphatase 1	-0.605	1.341
+624	BDKRB2	bradykinin receptor B2	0.628	1.482
+9728	SECISBP2L	SECIS binding protein 2 like	0.517	1.402
+105370932	LOC105370932	uncharacterized LOC105370932	1	1.308
+100507303	SNHG19	small nucleolar RNA host gene 19	-0.755	1.45
+3859	KRT12	keratin 12	4.004	1.943
+105376843	SNHG25	small nucleolar RNA host gene 25	-1.073	1.482
+654434	SNHG20	small nucleolar RNA host gene 20	-0.559	1.325
+126006	PCP2	Purkinje cell protein 2	-0.831	1.568
+100125288	ZGLP1	zinc finger GATA like protein 1	-0.806	1.556
+440519	ZNF724	zinc finger protein 724	1.022	1.365
+199746	U2AF1L4	U2 small nuclear RNA auxiliary factor 1 like 4	-0.564	1.773
+26819	SNORD32A	small nucleolar RNA, C/D box 32A	-0.755	1.558
+9476	NAPSA	napsin A aspartic peptidase	-0.929	1.654
+140733	MACROD2	mono-ADP ribosylhydrolase 2	0.635	1.536
+105372693	LOC105372693	uncharacterized LOC105372693	-1.449	1.347
+140893	RBBP8NL	RBBP8 N-terminal like	-0.725	1.414
+63910	SLC17A9	solute carrier family 17 member 9	-1.01	1.62
+109864279	RNA45SN2	RNA, 45S pre-ribosomal N2	-1.483	1.503
+109864282	RNA28SN2	RNA, 28S ribosomal N2	-1.722	1.802
+109910379	RNA45SN3	RNA, 45S pre-ribosomal N3	-1.466	1.482
+109910382	RNA28SN3	RNA, 28S ribosomal N3	-1.702	1.773
+112268284	LOC112268284		-1.699	1.371
+106631777	RNA45SN1	RNA, 45S pre-ribosomal N1	-1.488	1.503
+106632264	RNA28SN1	RNA, 28S ribosomal N1	-1.699	1.773
+25830	SULT4A1	sulfotransferase family 4A member 1	3.166	1.773
+109864271	RNA45SN4	RNA, 45S pre-ribosomal N4	-1.473	1.482
+109864272	RNA28SN4	RNA, 28S ribosomal N4	-1.668	1.366
+25975	EGFL6	EGF like domain multiple 6	3.034	1.571
+1046	CDX4	caudal type homeobox 4	-1.172	1.338
+26778	SNORA70	small nucleolar RNA, H/ACA box 70	-0.669	1.383
+100861532	RNA45SN5	RNA, 45S pre-ribosomal N5	-1.49	1.503
+100008589	RNA28SN5	RNA, 28S ribosomal N5	-1.686	1.383
