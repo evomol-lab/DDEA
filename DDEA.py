@@ -263,7 +263,7 @@ def run_gene_expression_analysis():
                             y=logFC_col,
                             title=f'Upregulated Genes (P-value < {p_value_threshold}, LogFC ≥ {logFC_threshold})',
                             labels={gene_col: 'Gene Symbol', logFC_col: 'Log2(FoldChange)'},
-                            color_discrete_sequence=px.colors.sequential.Greens_r # Green for upregulation
+                            color_discrete_sequence=px.colors.sequential.Blues_r # Green for upregulation
                         )
                         fig_up.update_xaxes(tickangle=90)
                         fig_up.update_layout(height=600)
@@ -285,7 +285,7 @@ def run_gene_expression_analysis():
                             y=logFC_col,
                             title=f'Downregulated Genes (P-value < {p_value_threshold}, LogFC ≤ -{logFC_threshold})',
                             labels={gene_col: 'Gene Symbol', logFC_col: 'Log2(FoldChange)'},
-                            color_discrete_sequence=px.colors.sequential.Reds # Red for downregulation
+                            color_discrete_sequence=px.colors.sequential.Reds_r # Red for downregulation
                         )
                         fig_down.update_xaxes(tickangle=90)
                         fig_down.update_layout(height=600)
