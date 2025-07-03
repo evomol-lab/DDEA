@@ -1,4 +1,4 @@
-GeneID	Symbol	Description	log2(fold change)(SkinLesion-PsA vs HealthySkin)	-log10(Pvalue)(SkinLesion-PsA vs HealthySkin)
+GeneID	Symbol	Description	log2(fold change)(Case vs Control)	-log10(Pvalue)(Case vs Control)
 653635	WASH7P	WASP family homolog 7, pseudogene	-0.664	3.823
 102466751	MIR6859-1	microRNA 6859-1	-0.736	1.607
 729737	LOC729737	uncharacterized LOC729737	1.225	3.01
